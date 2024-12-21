@@ -1,9 +1,19 @@
-pymongo
+# pymongo
+# pymongo[srv]
+# dnspython
+# pandas
+# numpy
+# ensure
+# pytest
+
+# -e .
+
+
+
 pymongo[srv]
 dnspython
 pandas
 numpy
 ensure
 pytest
-
 -e .
